@@ -15,6 +15,7 @@ For running the code
     - Width of outer ring (pixel). This is to crop out any material outside the sample, such as container or other external layers. If no       outer ring is present put 0 as value. If the image is in a specific unit and not in pixel, please remove the scale(Analyze-Set             scale- Click to Remove Scale) before running the code.
     - Tick the box if it's an internal or zoomed in scan.
     - Press ok.
+    
 All the following steps in the correction are completely automatic.
 
 
