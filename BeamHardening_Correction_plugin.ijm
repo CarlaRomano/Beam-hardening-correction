@@ -1,5 +1,6 @@
 // BEAM HARDENING CORRECTION PLUG-IN FOR CORE SAMPLES AND NEAR CYLINDRICAL SHAPES
-//for any request please contact carla.romano@strath.ac.uk
+//for any request please contact carla.romano@strath.ac.uk or cromano3@wisc.edu
+//If you intend to use this work and distribute derivate works please cite: https://doi.org/10.1016/j.cageo.2019.06.009
 //input=stack of the images to correct (File-Import-Image Sequence(no virtual stack))
 title1=getTitle();
 w=getWidth();
