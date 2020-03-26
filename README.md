@@ -19,5 +19,9 @@ For running the code
     
 All the following steps in the correction are completely automatic.
 
+UPDATE 26/03/2020 
+A new faster version of the code has been released. Please check BeamHardening_Correction_plugin_CLIJ.ijm.
+
+
 
     
