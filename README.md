@@ -26,7 +26,7 @@ All the following steps in the correction are completely automatic.
 A new faster version of the code has been released. Please download "BeamHardening_Correction_plugin_CLIJ.ijm" file.
 GPU-accelerated by Robert Haase. In order to run the adapted version, activate the CLIJ and CLIJ2 update sites in your Fiji (check here how to https://clij.github.io/).
 Please cite also: Haase, R., Royer, L.A., Steinbach, P. et al. CLIJ: GPU-accelerated image processing for everyone. Nat Methods 17, 5–6 (2020). https://doi.org/10.1038/s41592-019-0650-1"
-For running properly the code please update to the latest version of Clij and Clij2 and update Fiji ImageJ to the latest version as well (1.53k on 19/7/2021)
+For running properly the code please update to the latest versions of Clij and Clij2. Please also update Fiji ImageJ to the latest version as well (1.53k on 19/7/2021).
 
 
     
