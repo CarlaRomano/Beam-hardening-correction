@@ -8,7 +8,7 @@
 
 //Input=stack of the images to correct (File-Import-Image Sequence(no virtual stack))
 
-
+run("8-bit");
 title1=getTitle();
 w=getWidth();
 h=getHeight();
@@ -379,10 +379,11 @@ cumul2=Array.slice(cumul,startpoint-1,cumul.length-1);//Last part of the Average
 Array3x=Array.slice(Array1x,startpoint-1,cumul.length-1);
 Array.getStatistics(cumul2, min, max, mean, std);
 range=max-min;
-	
+
 //Equation for calculation of inital guesses b and c
-bg=278245*pow(range,-1.218);
-cg2=38641*exp(-0.0003*range);
+bg=30;
+cg2=40;
+
 //Fitting
 InverseRodbard = "y = c*pow(((x-a)/(d-x)),(1/b))";// Inverse rodbard of the last part
 initialGuesses = newArray(0, bg, cg2, r1);
