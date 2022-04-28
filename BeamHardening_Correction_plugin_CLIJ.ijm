@@ -1,5 +1,5 @@
 // BEAM HARDENING CORRECTION PLUG-IN FOR CORE SAMPLES AND NEAR CYLINDRICAL SHAPES
-//For any request please contact carla.romano@strath.ac.uk or cromano3@wisc.edu
+//For any request please contact cromano3@wisc.edu
 //If you intend to use this work and distribute derivate works please cite: Romano, C., Minto, J. M., Shipton, Z. K., & Lunn, R. J. (2019). Automated high accuracy, rapid beam hardening correction in X-Ray Computed Tomography of multi-mineral, heterogeneous core samples. Computers & Geosciences, 131, 144-157.https://doi.org/10.1016/j.cageo.2019.06.009
 
 // GPU-accelerated by Robert Haase (rhaase@mpi-cbg.de)
